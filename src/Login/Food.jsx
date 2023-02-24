@@ -3,7 +3,7 @@ import { Container, Row, Col, Card, Button, Form, DropdownButton, Dropdown } fro
 
 import axios from 'axios';
 import {app , db , myCollectionRef , auth} from "./Firebase"
-import RecipeList from './RecipeList';
+// import RecipeList from './RecipeList';
 
 
 const Food = () => {
