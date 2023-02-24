@@ -1,0 +1,16 @@
+.wrapper{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+}
+.login{
+  width: 300px;
+  height: min-content;
+  border-radius: 5px;
+  background-color: aliceblue;
+  color: black;
+  padding: 20px;
+}
